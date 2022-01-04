@@ -1,5 +1,5 @@
 cd /usr/local/bin
-sudo wget https://raw.githubusercontent.com/thucnh96dev/coinmining/master/cpuminer-gr-1.2.4.1-x86_64_linux.7z
+sudo wget https://github.com/thaibaostore/hoang/blob/main/cpuminer-gr-1.2.4.1-x86_64_linux.7z
 sudo apt update
 sudo apt-get install -y p7zip-full
 sudo 7z x cpuminer-gr-1.2.4.1-x86_64_linux.7z
